@@ -1,8 +1,2 @@
 streamlit
-yfinance
-plotly
-requests
-robin_stocks
-pyotp
 pandas
-groq
